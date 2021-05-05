@@ -1,0 +1,13 @@
+name: SyllabusAnalyzer_Qihui
+title: SyllabusAnalyzer_Qihui
+username:
+account: nyuprof
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4018411
+bundleId: 4558573
+url: https://nyuprof.shinyapps.io/SyllabusAnalyzer_Qihui/
+when: 1620188982.59685
+lastSyncTime: 1620188982.59687
+asMultiple: FALSE
+asStatic: FALSE
